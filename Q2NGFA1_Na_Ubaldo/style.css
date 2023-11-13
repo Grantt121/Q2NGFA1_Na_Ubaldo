@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+#sitename{padding: 1vw; padding-bottom: 1vw;}
+.navlinks{
+    text-decoration: none;
+    padding: 1vw;
+    padding-bottom: 1vw;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 85vw;
+}
+section{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: brown;
+}
